@@ -110,6 +110,8 @@
         {
           "id":2,
           "type":"Iphone",
+          "classify":"Điện thoại",
+
             "title":" Iphone 14 ",
           "src":"https://admin.hoanghamobile.com/Uploads/2022/10/05/33.jpg",
           "subSrc": [{
@@ -143,6 +145,8 @@
       {
       "id":3,
           "type":"Iphone",
+          "classify":"Điện thoại",
+
             "title":" Iphone 15 XSMAX",
           "src":"https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_12.png",
           "subSrc": [{
@@ -176,6 +180,8 @@
       {
       "id":4,
           "type":"Iphone",
+          "classify":"Điện thoại",
+
             "title":" Iphone 8 PRO",
           "src":"https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
           "subSrc": [{
@@ -209,6 +215,8 @@
       {
       "id":5,
           "type":"Iphone",
+          "classify":"Điện thoại",
+
             "title":" Iphone 9 PRO",
           "src":"https://www.renderhub.com/madmix/apple-iphone-15-pro-max-v2/apple-iphone-15-pro-max-v2-01.jpg",
           "subSrc": [{
@@ -242,6 +250,8 @@
       {
       "id":6,
           "type":"Iphone",
+          "classify":"Điện thoại",
+
             "title":" Iphone 11 PRO",
           "src":"https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
           "subSrc": [{
@@ -275,6 +285,8 @@
       {
         "id":7,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 8 ",
         "src":"https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
         "subSrc": [{
@@ -308,6 +320,8 @@
       {
         "id":8,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone ",
         "src":"https://cdn.tgdd.vn/Products/Images/42/247508/iphone-14-pro-vang-thumb-600x600.jpg",
         "subSrc": [{
@@ -341,6 +355,8 @@
       {
         "id":9,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 10 X",
         "src":"https://cdn-v2.didongviet.vn/files/products/2023/4/9/1/1683605592281_thumb_iphone_11_didongviet.jpg",
         "subSrc": [{
@@ -374,6 +390,8 @@
       {
         "id":10,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 15 pro",
         "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wbVZTVXW51Wc1_k_aIduhJIzzEOWw8Xbkw&usqp=CAU",
         "subSrc": [{
@@ -407,6 +425,8 @@
       {
         "id":11,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 12 pro ",
         "src":"https://thanhphatmobile.com.vn/upload/sanpham/0150311_smartphone-apple-iphone-14-6-1-6-gb-128-gb-ios-plavi-010301122-5536.jpg",
         "subSrc": [{
@@ -440,6 +460,8 @@
       {
         "id":12,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 13 pro ",
         "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUTp64R9QGfRST1Z94sn04heBzEDdLsYG1toYOIj7omair7SshQtWwzF3AEr_nvn0foA&usqp=CAU",
         "subSrc": [{
@@ -473,6 +495,8 @@
       {
         "id":13,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 10 pro",
         "src":"https://admin.hoanghamobile.com/Uploads/2022/10/05/33.jpg",
         "subSrc": [{
@@ -506,6 +530,8 @@
       {
         "id":14,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 11 pro 64 GB",
         "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZV_mo1491YZRem55Oun-ETVc3okT1YrqEA&usqp=CAU",
         "subSrc": [{
@@ -539,6 +565,8 @@
       {
         "id":15,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 12 pro 64 GB",
         "src":"https://product.hstatic.net/200000144777/product/4_d39790d538174cb69c526ee6e19d3d1c_master.png",
         "subSrc": [{
@@ -572,6 +600,8 @@
       {
         "id":16,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":"Iphone 14 pro 128 GB",
         "src":"https://cdn.viettablet.com/images/news/55/gia-ban-iphone-14-pro-max-mau-tim.jpg",
         "subSrc": [{
@@ -605,6 +635,8 @@
       {
         "id":17,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 13 pro 128 GB",
         "src":"https://img.websosanh.vn/v2/users/review/images/ltbs50bcjpa95.jpg?compress=85",
         "subSrc": [{
@@ -638,6 +670,8 @@
       {
         "id":18,
         "type":"Iphone",
+        "classify":"Điện thoại",
+
         "title":" Iphone 14 pro 128 GB",
         "src":"https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/uploads/images/tin-tuc/138327/Originals/Tong-hop-thong-tin-ve-iphone-13-mau-hong-1.jpg",
         "subSrc": [{
@@ -671,6 +705,7 @@
       {
         "id":19,
         "type":"Iphone",
+
         "classify":"Điện thoại",
         "title":" Iphone 13 pro 128 GB",
         "src":"https://focus.independent.ie/thumbor/zZbTnqeC7yNe9HxEuqreOTbBkxg=/0x69:2500x1450/960x640/prod-mh-ireland/0a801fbc-a9fb-11ed-9a71-0210609a3fe2.jpeg",
@@ -705,6 +740,8 @@
       {
         "id":20,
         "type":"Iphone",
+                    "classify":"Điện thoại",
+
         "title":" Iphone 13 pro 128 GB",
         "src":"https://www.xtmobile.vn/vnt_upload/news/06_2021/01/iphone-13-pro-va-iphone-13-pro-max-2021-co-gia-bao-nhieu-xtmobile.jpg",
         "subSrc": [{
