@@ -1,0 +1,41 @@
+.wrapper{
+    width: 100%;
+    background-image:url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=800&dpr=1);
+    height: 500px;
+    
+
+}
+
+.form-login{
+    margin-top: 200px;
+    width: 300px;
+    height: 200px;
+    justify-self: center;
+    align-items: center;
+    margin-left: 30%;
+    border: 1px  ;
+
+}
+
+.username{
+    width: 80%;
+    border: 1px solid rgb(116, 129, 158);
+    height: 20px;
+}
+.password{
+    width: 80%;
+    border: 1px solid rgb(116, 129, 158);
+    height: 20px;
+
+}
+.signin-btn{
+    margin-top: 20px;
+}
+
+.signup-creatacc{
+    margin-left: 30%;
+}
+
+.acc-creat{
+    margin-bottom: 100px;
+}

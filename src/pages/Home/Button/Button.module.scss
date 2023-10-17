@@ -1,0 +1,77 @@
+.wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    min-width: 100px;
+    padding: 9px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: var(--white);
+    border: 1px solid transparent;
+    user-select: none;
+    top:0px;
+    + .wrapper {
+        margin-left: 8px;
+    }
+    &.disabled {
+        // ưu tiên hơn các class khác
+        pointer-events: none;
+        opacity: 0.5;
+    }
+}
+.rounded {
+    border-radius: 999px;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 6%);
+    border-color: #2b2929;
+
+    &:hover {
+        border-color: rgba(22, 24, 3, 0.2);
+        background-color: rgba(22, 24, 35, 0.03);
+    }
+}
+
+.primary {
+    color: var(--white);
+    background-color: var(--primary);
+    &:hover {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.06)), #fe2c55;
+    }
+}
+
+.outline {
+    color: var(--primary);
+    border-color: currentColor;
+    &:hover {
+        background-color: rgba(254, 44, 85, 0.06);
+    }
+}
+
+.small {
+    min-width: 10px;
+    padding: 4px 8px;
+}
+.large {
+    min-width: 136px;
+    padding: 6px 16px;
+}
+
+.text {
+    &:hover {
+        text-decoration: underline; //gạch chân dưới
+    }
+}
+
+//disabled
+
+.icon + .title,
+.title + .icon {
+    margin-left: 4px;
+}
+
+.icon {
+    display: inline-block;
+    width: 24px;
+    text-align: center;
+}

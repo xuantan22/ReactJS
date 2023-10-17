@@ -1,0 +1,18 @@
+
+.wrapper {
+    display: flex; //mặc định theo chiều ngang
+    align-items: center;
+    flex-direction: column;//sắp xếp theo chiều dọc
+}
+
+.container{
+    width: 1300px;
+    display: flex;
+
+}
+
+.content {
+    flex: 1; //lấy nốt khoảng trống theo chiều flex-direction
+    min-height: 1000px;
+    margin-top: 150px;
+}

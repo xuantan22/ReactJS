@@ -1,0 +1,27 @@
+.footer {
+    width: 100%;
+    padding-top:10px;
+    border-top: 4px solid #ee4d2d;
+    margin-top: 100px;
+    
+}
+.category-item {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.smartphone-item{
+    flex: 1;
+
+    }
+
+.laptop-item{
+    flex: 1;
+    }
+
+.watch-item{
+    flex: 1;
+    }
+.electric-device {
+    flex: 1;
+}

@@ -1,0 +1,149 @@
+.wrapper{
+    width: 100%;
+    height: inherit;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+
+.app-name{
+    &::after {
+        content: '';
+        height: 10px;
+        width: 10px;
+        border:1px solid rgba(22, 24, 33, 0.4);
+        cursor: pointer;
+        margin: 0 6px 0 6px;
+
+    }
+}
+.statistical{
+    margin-top: 100px;
+}
+.product-titlte{
+    margin-left: 10px;
+}
+.bill-titlte{
+    margin-left: 500px;
+}
+
+.quantity-title{
+    margin-left: 100px;
+}
+.amount{
+    margin-left: 100px;
+
+}
+.operation{
+    margin-left: 100px;
+}
+
+.shop-name{
+    margin-left: 10px;
+}
+.select-shop {
+    margin-top: 50px;
+}
+
+.checkbox{
+   
+    display: flex;
+    
+}
+
+.product{
+    margin-top: 40px;
+    display: flex;
+}
+
+
+.product-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cost{
+    text-decoration: line-through;
+}
+.current-price{
+    margin: 0 20px 0 20px;
+}
+
+.delete-btn{
+    cursor: pointer;
+}
+.minus-icon{
+    cursor: pointer;
+}
+.plus-icon{
+    cursor: pointer;
+}
+
+.select-all{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.delete-btn{
+    margin: 0 ;
+}
+.price-total{
+    margin-left: 400px;
+}
+.arrow {
+    width: 2px;
+    height: 4px;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    background: none;
+    padding: 0;
+    border-top: 5px solid rgba(0,0,0,.54);
+    border-bottom: 0;
+    transition: transform .1s cubic-bezier(.4,0,.6,1);
+    transform: rotate(0);
+    margin: 10px 0 0 10px;
+    cursor: pointer;
+}
+.classify{
+}
+.classify-btn{
+    cursor: pointer;
+}
+
+.classify-title{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.product-name{
+    margin-left: 20px;
+}
+.price{
+    margin-top: 40px;
+}
+
+.cost {
+    margin-left: 50px;
+}
+
+.quantity{
+    margin-left: 30px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.number{
+    margin: 0 10px;
+}
+.price-total-type{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.operation{
+    margin-top: 40px;
+}
+.shop-icon{
+    width: 14px;
+}
+
+

@@ -1,0 +1,40 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+:root {
+    --primary: orangered;
+    --black: #000;
+    --text-color: #333;
+    --white: #fff;
+    --price-color:rgb(155, 50, 50);
+    --background_color: rgb(207, 229, 230);
+    --btn-color:#d0011b;
+    
+
+
+}
+
+html {
+    font-size: 62.5%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 1.6rem;
+    text-rendering: optimizeSpeed;
+    box-sizing: border-box;
+}
+
+button, input, [tabindex] {
+    outline: none;
+    border: none;
+}
+
+a[href] {
+    color: #333;
+}
+Link {
+    font-weight: 700;
+}

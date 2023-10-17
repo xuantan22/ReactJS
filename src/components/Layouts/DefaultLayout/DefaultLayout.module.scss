@@ -1,0 +1,42 @@
+
+.wrapper {
+    display: flex; //mặc định theo chiều ngang
+    align-items: center;
+    flex-direction: column;//sắp xếp theo chiều dọc
+    overflow-y: 10px;
+}
+::-webkit-scrollbar {
+    height: 3px;
+    transform-origin:0;
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(150, 146, 146);
+    border-radius: 10px;
+    transition: var(transfer);
+    }
+@keyframes transfer {
+    from {
+        
+    }
+    to{
+        top:0;
+        right: 0;
+    }
+}
+
+.container{
+    width: 1300px;
+    display: flex;
+    margin-top: 150px;
+
+}
+
+.content {
+    flex: 1; //lấy nốt khoảng trống theo chiều flex-direction
+    min-height: 1000px;
+    margin-left:220px;
+    ;
+    
+
+    
+}

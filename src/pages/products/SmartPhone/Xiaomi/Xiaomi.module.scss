@@ -1,0 +1,46 @@
+
+.wrapper{
+    width: 100%;
+}
+
+
+a,link {
+    text-decoration: none;
+}
+
+.info-item{
+    width: 220px;
+    height: 380px;
+    border-radius: 20px;
+    margin: 20px;
+    &:hover{
+        border: 1px solid red;
+        transform: scale(1.08);
+        transition-duration: 0.5s;
+
+      }
+  
+}
+
+
+.product-image{
+    flex: 1;
+    object-fit: contain;
+    height: 270px;
+    width: 220px;
+    
+
+}
+
+.item-title{
+
+}
+.item-price{
+    color: rgb(182, 42, 42);
+    text-decoration: underline;
+    font-size: large;
+}
+
+cart-icon{
+}
+
