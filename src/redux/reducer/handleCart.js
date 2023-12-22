@@ -16,7 +16,7 @@ const  handleCart = (state = cart,action) => {
            
         
         case "DELITEM":
-            return state = state.filter((x) => x[0].id !== action.payload);
+            return state = state.filter((x) => x[1].id !== action.payload);
             break;
 
         case "DELALLITEM":
