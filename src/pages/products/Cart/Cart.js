@@ -34,7 +34,7 @@ const  Cart = () => {
             </div>
         <div>
             {state.numberCart !== 0 && state.map(product => (
-            {state.map(product => (
+            state.map(product => (
 
                 <CartItems data={product}/>
             ))
